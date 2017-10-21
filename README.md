@@ -1,4 +1,6 @@
-# dragonfly_ops_community
+# DragonflyOps_community
+
+## Community resources for DragonflyOps game: transient-dynamic.tumblr.com
 
 1. Free sample interface written in python: http://bit.ly/DragonflyOps_clients
 
